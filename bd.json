@@ -1,0 +1,24 @@
+{
+  "products": [
+    { "id": 1, "name": "Kucing", "category": "Abu-abu" },
+    { "id": 2, "name": "Sapi", "category": "Coklat" },
+    { "id": 3, "name": "Kuda", "category": "Coklat" },
+    { "id": 4, "name": "Kelinci", "category": "Putih" },
+    { "id": 5, "name": "Kambing", "category": "Hitam" },
+    { "id": 6, "name": "Anjing", "category": "Coklat" },
+    { "id": 7, "name": "Jerapah", "category": "Kuning" },
+    { "id": 8, "name": "Ular", "category": "Hijau" },
+    { "id": 9, "name": "Gajah", "category": "Abu-abu" },
+    { "id": 10, "name": "Kupu-kupu", "category": "Warna-warni" },
+    { "id": 11, "name": "Laba-laba", "category": "Hitam" },
+    { "id": 12, "name": "Burung", "category": "Warna-warni" },
+    { "id": 13, "name": "Kuda nil", "category": "Coklat" },
+    { "id": 14, "name": "Kodok", "category": "Hijau" },
+    { "id": 15, "name": "Ikan", "category": "Warna-warni" },
+    { "id": 16, "name": "Badak", "category": "Abu-abu" },
+    { "id": 17, "name": "Kanguru", "category": "Coklat" },
+    { "id": 18, "name": "Hamster", "category": "Coklat" },
+    { "id": 19, "name": "Kepiting", "category": "Merah" },
+    { "id": 20, "name": "Belut", "category": "Coklat" }
+  ]
+}
